@@ -1,0 +1,24 @@
+{
+  "name": "ek-uhlig.github.io",
+  "version": "1.0.0",
+  "description": "A personal learning project. This website showcases some fun information about Bronze Age literature, a personal passion of mine, while showcasing responsive design practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ek-uhlig/ek-uhlig.github.io.git"
+  },
+  "author": "Ethan Uhlig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ek-uhlig/ek-uhlig.github.io/issues"
+  },
+  "homepage": "https://github.com/ek-uhlig/ek-uhlig.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
