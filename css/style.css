@@ -9,3 +9,8 @@ body{
 .navbar{
     background-color: burlywood;
 }
+
+.modalLink{
+    color: #0000AA !important;
+    text-decoration-line: underline !important;
+}
