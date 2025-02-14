@@ -8,6 +8,7 @@ header.jumbotron {
     color: white;
     border-radius: 15px;
     margin-bottom: 0; /* Remove space below jumbotron */
+    border-radius: 0 !important;
 }
 
 .navbar {
